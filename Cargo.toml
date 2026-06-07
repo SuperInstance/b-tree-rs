@@ -1,0 +1,9 @@
+[package]
+name = "b-tree-rs"
+version = "0.1.0"
+edition = "2021"
+description = "B-tree of order t with node splitting, deletion via merge/borrow, search, and range queries"
+license = "MIT"
+repository = "https://github.com/SuperInstance/b-tree-rs"
+keywords = ["btree", "tree", "data-structure", "balanced", "search"]
+categories = ["data-structures"]
